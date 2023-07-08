@@ -92,6 +92,10 @@ button {
   cursor: pointer;
 }
 
+button:hover {
+  background-color: #22649a;
+}
+
 footer {
   margin-top: 20px;
   text-align: center;
